@@ -6,7 +6,7 @@ public class Demo {
 		// TODO Auto-generated method stub
 System.out.println("Push Config");
 System.out.println("from workspace 2");
-System.out.println("from workspace 1");
+
 	}
 
 }
