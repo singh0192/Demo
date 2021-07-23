@@ -29,9 +29,9 @@ public class Demo {
 		finally {
 		   /* if (br != null) { try { br.close(); } catch(Throwable t) {  ensure close happens  } }
 		    * 
-		    if (r != null) { try { r.close(); } catch(Throwable t) {  ensure close happens  } }*/
+		    if (r != null) { try { r.close(); } catch(Throwable t) {  ensure close happens  } }
 			
-		    if (ins != null) { try { ins.close(); } catch(Throwable t) {   } }
+		    if (ins != null) { try { ins.close(); } catch(Throwable t) {   } }*/
 		}
 	}
 
